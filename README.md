@@ -11,8 +11,8 @@ a. Add bias once the nn library solves the issue with Bias on DepthWiseSeparable
 <br />
 b. Add training on imagenet and food101.
 <br />
-
-
+c. Add pretrained model and demo
+<br />
 
 ## Important Note
 Training is very slow. In particular, it takes about 300msec to process a batch of 10 images (30msec/image) on a NVIDIA GTX-1070.
