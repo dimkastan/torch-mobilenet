@@ -1,5 +1,5 @@
 # torch-mobilenet
-MobileNet implementation for torch
+MobileNet implementation for torch based on Pytorch Equivalent: https://github.com/marvis/pytorch-mobilenet 
 
 
 ## Description
@@ -11,6 +11,8 @@ a. Add bias once the nn library solves the issue with Bias on DepthWiseSeparable
 <br />
 b. Add training on imagenet and food101.
 <br />
+
+
 
 
 Please feel free to contact me for any suggestions.
