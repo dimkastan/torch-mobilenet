@@ -19,4 +19,4 @@ Training is very slow. In particular, it takes about 300msec to process a batch 
 
 
 
-Please feel free to contact me for any suggestions.
+Please feel free to contact me for any comments or suggestions.
