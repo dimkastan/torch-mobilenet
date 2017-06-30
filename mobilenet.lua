@@ -1,18 +1,11 @@
 
 --[[
 
-Torch implementation of squeezenet for food recognition.
+Torch implementation of MobileNet
 --]]
 
 
-
- 
-
-
-require 'image'
 require 'nn'
- 
-
  
 
 function conv_bn(inp, outp, stride)
